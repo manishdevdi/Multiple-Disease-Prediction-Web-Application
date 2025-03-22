@@ -5,7 +5,7 @@
 
 ## 📹 Demo Preview
 
-![Demo Preview](assets/Demo_Video_Short.gif)
+[Demo Preview](assets/Demo_Video_Short.gif)
 
 ---
 
