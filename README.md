@@ -110,6 +110,8 @@ Contributions are welcome! Feel free to submit issues, feature requests, or pull
 This project is licensed under the **MIT License**.  
 For more details, see the [LICENSE](https://github.com/manishdevdi/Multiple-Disease-Prediction-Web-Application/blob/main/LICENSE) file.
 
+---
+
 ## 📧 Contact  
 📌 **Author:**  Manish Devdi   
 
