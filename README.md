@@ -53,7 +53,6 @@ The goal of this project is to demonstrate how AI and machine learning can suppo
 
 ## 🛠 Tech Stack
 
-
 | Technology         | Description                              |
 |--------------------|------------------------------------------|
 | `Python`           | Backend logic and ML model handling      |
@@ -67,7 +66,6 @@ The goal of this project is to demonstrate how AI and machine learning can suppo
 ---
 
 ## ⚙ Installation
-
 
 ### Prerequisites
 - Python 3.7+
@@ -101,8 +99,7 @@ streamlit run app.py
    
 ---
 
-## 🖼️ Screenshots
-
+## 🖼 Screenshots
 ![Home Page](assets/homepage.png)
 
 ---
