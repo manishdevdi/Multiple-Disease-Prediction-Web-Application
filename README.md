@@ -51,7 +51,7 @@ The goal of this project is to demonstrate how AI and machine learning can suppo
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 | Technology         | Description                              |
 |--------------------|------------------------------------------|
@@ -61,6 +61,7 @@ The goal of this project is to demonstrate how AI and machine learning can suppo
 | `Joblib/Pickle`    | Model serialization/deserialization      |
 | `Pandas`           | Data handling and preprocessing          |
 | `Plotly / Matplotlib / Seaborn` | Data visualization         |
+
 
 ---
 
