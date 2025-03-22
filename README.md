@@ -11,7 +11,7 @@
 ---
 
 ## 📖 Table of Contents
-- [About the Project](#about-the-project)
+- [About the Project](https://github.com/manishdevdi/Multiple-Disease-Prediction-Web-Application/blob/main/README.md#about-the-project)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
@@ -22,7 +22,7 @@
 
 ---
 
-## About the Project
+## 📝 About the Project
 
 **Multiple Disease Prediction Web App** is a machine learning-based web application designed to assist in the early detection of various diseases. The web app utilizes pre-trained machine learning models to predict the likelihood of multiple diseases based on user inputs.
 
