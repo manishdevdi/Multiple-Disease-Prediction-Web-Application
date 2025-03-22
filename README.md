@@ -3,7 +3,7 @@
 
 ---
 
-## 📹 Demo Preview
+## 🚀 Live Demo
 
 ![Demo Preview](https://github.com/manishdevdi/Multiple-Disease-Prediction-Web-Application/blob/main/assets/Demo_Video_Short.gif?raw=true)
 
