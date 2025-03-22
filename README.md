@@ -14,7 +14,7 @@
 - [About the Project](#-about-the-project)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Installation](#=installation)
+- [Installation](#-installation)
 - [How to Use](#-how-to-use)
 - [Screenshots](#screenshots)
 - [Contributing](#-contributing)
@@ -51,7 +51,7 @@ The goal of this project is to demonstrate how AI and machine learning can suppo
 
 ---
 
-## 🛠️Tech Stack
+## 🛠️ Tech Stack
 
 | Technology         | Description                              |
 |--------------------|------------------------------------------|
