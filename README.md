@@ -83,5 +83,14 @@ pip install -r requirements.txt
 cd Frontend
 streamlit run app.py
 ```
+## 📲 How to Use
+1. Launch the app using Streamlit.
+2. Use the sidebar menu to select the disease you want to predict.
+3. Enter the required health parameters in the input fields.
+4. Click on the Predict button to get the diagnosis result.
+5. The prediction will be displayed instantly with visual feedback.
+
+## 🖼️ Screenshots
+![Home Page](assets/homepage.png)
 
 
