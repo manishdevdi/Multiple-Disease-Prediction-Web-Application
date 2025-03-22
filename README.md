@@ -71,4 +71,17 @@ The goal of this project is to demonstrate how AI and machine learning can suppo
 ```bash
 git clone https://github.com/manishdevdi/Multiple-Disease-Prediction-Web-Application.git
 cd Multiple-Disease-Prediction-Web-Application/Frontend
+```
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Streamlit App
+```bash
+cd Frontend
+streamlit run app.py
+```
+
 
