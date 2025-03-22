@@ -83,14 +83,38 @@ pip install -r requirements.txt
 cd Frontend
 streamlit run app.py
 ```
+---
+
 ## 📲 How to Use
 1. Launch the app using Streamlit.
 2. Use the sidebar menu to select the disease you want to predict.
 3. Enter the required health parameters in the input fields.
 4. Click on the Predict button to get the diagnosis result.
 5. The prediction will be displayed instantly with visual feedback.
+   
+---
 
 ## 🖼️ Screenshots
 ![Home Page](assets/homepage.png)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to improve the project.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+For more details, see the [LICENSE](https://github.com/manishdevdi/Multiple-Disease-Prediction-Web-Application/blob/main/LICENSE) file.
+
+## 📧 Contact  
+📌 **Author:**  Manish Devdi   
+
+📌 **GitHub:**  [manishdevdi](https://github.com/manishdevdi)              📌 **LinkedIn:** [Manish Devdi](https://www.linkedin.com/in/manish-devdi-63bb78234/)  
+
+⭐ **If you like this project, give it a star!** ⭐  
 
 
