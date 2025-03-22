@@ -3,9 +3,9 @@
 
 ---
 
-## 🚀 Live Demo
-🔗 *[Add your Streamlit Share link or video demo link here]*  
-🔗 [Click here to watch the Demo Video](https://drive.google.com/file/d/1v4vxSR0xGEtIGbIxT_HsKjKAG-5tz9UT/view?usp=sharing)
+## 📹 Demo Preview
+
+![Demo Preview](assets/Demo_Video_Short.gif)
 
 ---
 
