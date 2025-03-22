@@ -13,8 +13,8 @@
 ## 📖 Table of Contents
 - [About the Project](#-about-the-project)
 - [Features](#-features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
+- [Tech Stack](#-tech-stack)
+- [Installation](#=installation)
 - [How to Use](#-how-to-use)
 - [Screenshots](#screenshots)
 - [Contributing](#-contributing)
@@ -48,6 +48,8 @@ The goal of this project is to demonstrate how AI and machine learning can suppo
 ✅ Visualization and insights  
 ✅ Lightweight and fast predictions  
 ✅ Supports multiple disease models with accurate results
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -84,6 +86,7 @@ pip install -r requirements.txt
 cd Frontend
 streamlit run app.py
 ```
+
 ---
 
 ## 📲 How to Use
