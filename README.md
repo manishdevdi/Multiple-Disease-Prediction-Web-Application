@@ -3,6 +3,12 @@
 
 ---
 
+## 🚀 Live Demo
+🔗 *[Add your Streamlit Share link or video demo link here]*  
+🔗 [Click here to watch the Demo Video](https://github.com/manishdevdi/Multiple-Disease-Prediction-Web-Application/blob/main/Demo%20Video.mp4)
+
+---
+
 ## 📖 Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
